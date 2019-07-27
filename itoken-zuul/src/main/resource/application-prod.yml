@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      uri: http://39.106.24.18:8888
+      name: itoken-zuul
+      label: master
+      profile: dev
